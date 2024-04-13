@@ -1,6 +1,6 @@
 <p align="center"><img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></p>
 
-<h1 align="center"> Hi,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Tobi </h1>
+<h1 align="center"> Wagwan,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Tobi </h1>
 
 I'm Oluwatobi Salawu, a Junior Software & Frontend Developer (In Training) 💻.
 
@@ -10,7 +10,13 @@ I'm Oluwatobi Salawu, a Junior Software & Frontend Developer (In Training) 💻.
 - :computer: Most used line of code `"for i in item"`.
 - 🔍 I’m currently searching for an internship or apprenticeship.
 - :speech_balloon: Ask me about anything.
-- 😄 Pronouns: He/Him.
+- :bulb: Pronouns: He/Him.
+
+---
+
+**[Here](https://github.com/tobilobasalawu/Projects) are some of the projects have worked on**🔌
+
+---
 
 ### :link: &nbsp;Connect with me
 
@@ -25,10 +31,12 @@ I'm Oluwatobi Salawu, a Junior Software & Frontend Developer (In Training) 💻.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 <hr>
