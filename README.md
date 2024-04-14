@@ -14,7 +14,7 @@ I'm Oluwatobi Salawu, a Junior Software & Frontend Developer (In Training) 💻.
 
 ---
 
-**Click [Here](https://github.com/tobilobasalawu/Projects) to see some of the projects have worked on**🔌
+**Click [here](https://github.com/tobilobasalawu/Projects) to see some of the projects have worked on**🔌
 
 ---
 
@@ -50,4 +50,4 @@ I'm Oluwatobi Salawu, a Junior Software & Frontend Developer (In Training) 💻.
 ------
 Credit: [tobilobasalawu](https://github.com/tobilobasalawu)
 
-Last Edited on: 13/04/2024
+Last Edited on: 14/04/2024
