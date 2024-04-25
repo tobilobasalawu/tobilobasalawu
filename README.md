@@ -23,7 +23,7 @@ I'm Oluwatobi Salawu, a Junior Software & Frontend Developer (In Training) 💻.
 <p align="center">
 <a href="https://www.linkedin.com/in/oluwatobi-s-637258246"><img src="https://img.shields.io/badge/-Tobi%20s-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tobisal.dev@gmail.com"><img src="https://img.shields.io/badge/-tobisal.dev@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.snapchat.com](https://www.snapchat.com/add/tob yxx15?share_id=xUNcMRGdSbmw ObaGDtKENg&locale=en_GB)"><img src="https://img.shields.io/badge/Tobs-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
+<a href="https://www.snapchat.com/add/tobyxx15?share_id=6qvLLnnfRpSNX1SRb7P1xA&locale=en_GB"><img src="https://img.shields.io/badge/Tobs-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
 </p>
 <hr>
 
