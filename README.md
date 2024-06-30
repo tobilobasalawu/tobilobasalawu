@@ -14,12 +14,6 @@ I'm Oluwatobi Salawu, a Junior Software & Frontend Developer (In Training) 💻.
 
 ---
 
-**Click [here](https://github.com/tobilobasalawu/Projects) to see some of the projects have worked on**🔌
-
----
-
-### :link: &nbsp;Connect with me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/oluwatobi-s-637258246"><img src="https://img.shields.io/badge/-Tobi%20s-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tobisal.dev@gmail.com"><img src="https://img.shields.io/badge/-tobisal.dev@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -50,4 +44,4 @@ I'm Oluwatobi Salawu, a Junior Software & Frontend Developer (In Training) 💻.
 ------
 Credit: [tobilobasalawu](https://github.com/tobilobasalawu)
 
-Last Edited on: 25/04/2024
+Last Edited on: 01/07/2024
