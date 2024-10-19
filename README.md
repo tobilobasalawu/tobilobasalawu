@@ -35,6 +35,12 @@ I am an aspiring software engineer, continuously learning new languages and skil
 ![Wordpress](https://img.shields.io/badge/-wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 <hr>
 
+
+### Projects
+To view a list of the projects have worked on click here 👉🏾[Projects](https://github.com/tobilobasalawu/Projects)👈🏾
+
+---
+
 ### ⚙️ &nbsp; Git Analytics
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tobilobasalawu&theme=dark&show_icons=true"> </p>
@@ -44,4 +50,4 @@ I am an aspiring software engineer, continuously learning new languages and skil
 ------
 Credit: [tobilobasalawu](https://github.com/tobilobasalawu)
 
-Last Edited on: 31/08/2024
+Last Edited on: 19/10/2024
