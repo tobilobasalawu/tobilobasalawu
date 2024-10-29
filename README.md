@@ -16,7 +16,7 @@ I am an aspiring software engineer, continuously learning new languages and skil
 <p align="center">
 <a href="https://www.linkedin.com/in/oluwatobi-s-637258246"><img src="https://img.shields.io/badge/-Tobi%20s-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tobisal.dev@gmail.com"><img src="https://img.shields.io/badge/-tobisal.dev@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.snapchat.com/add/tobyxx15?share_id=6qvLLnnfRpSNX1SRb7P1xA&locale=en_GB"><img src="https://img.shields.io/badge/Tobs-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
+<a href="https://snapchat.com/t/eFkvFTqm"><img src="https://img.shields.io/badge/Tobs-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
 </p>
 <hr>
 
@@ -50,4 +50,4 @@ To view a list of the projects have worked on click here 👉🏾[Projects](http
 ------
 Credit: [tobilobasalawu](https://github.com/tobilobasalawu)
 
-Last Edited on: 19/10/2024
+Last Edited on: 29/10/2024
