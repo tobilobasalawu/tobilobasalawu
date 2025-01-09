@@ -58,6 +58,5 @@ To view a list of the projects have worked on click here 👉🏾[Projects](http
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobilobasalawu&theme=vue-dark&hide_border=true" width="410" /> </p>
 
 ------
-Credit: [tobilobasalawu](https://github.com/tobilobasalawu)
 
-Last Edited on: 29/10/2024
+Last Edited on: 09/01/2025
