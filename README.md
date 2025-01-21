@@ -55,8 +55,7 @@ To view a list of the projects have worked on click here 👉🏾[Projects](http
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tobilobasalawu&show_icons=true&theme=radical"> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobilobasalawu&layout=compact&theme=radical" width="410" /></p>
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobilobasalawu&theme=vue-dark&hide_border=true" width="410" /> </p>
 
 ------
 
-Last Edited on: 09/01/2025
+Last Edited on: 21/01/2025
