@@ -16,7 +16,6 @@ I am an aspiring software engineer, continuously learning new languages and skil
 ### Languages:
 - **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **C#**: ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -58,4 +57,4 @@ To view a list of the projects have worked on click here 👉🏾[Projects](http
 
 ------
 
-Last Edited on: 21/01/2025
+Last Edited on: 27/01/2025
