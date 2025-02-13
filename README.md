@@ -4,7 +4,7 @@ Aspiring Software Engineer | Passionate Learner | Problem Solver
 
 ---
 
-I'm an aspiring software engineer constantly expanding my knowledge and refining my skills. My goal is to become a top software engineer 😜 by continuously learning and innovating. Follow my journey! 🚀
+I'm an aspiring software engineer constantly expanding my knowledge and refining my skills. Follow my journey! 🚀
 
 <!-- TODO: Add latest video link -->
 
