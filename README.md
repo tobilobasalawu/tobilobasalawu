@@ -4,20 +4,27 @@ Aspiring Software Engineer | Passionate Learner | Problem Solver
 
 ---
 
-I'm an aspiring software engineer constantly expanding my knowledge and refining my skills. I’ve built multiple projects and am always eager to tackle new challenges. My goal is to become a top gee software engineer😜 by continuously learning and innovating. Follow my journey! 🚀
+I'm an aspiring software engineer constantly expanding my knowledge and refining my skills. My goal is to become a top software engineer 😜 by continuously learning and innovating. Follow my journey! 🚀
 
 <!-- TODO: Add latest video link -->
 
 ### 🌱 Currently Learning:
 - Advanced Python concepts 🐍
+  
 - Data Structures & Algorithms 📚
+
 - Full-stack development with Next.js & React ⚡
-- Cloud technologies & AI integrations ☁️🤖
+
+- Software Developme Life Cycle 🔁
+  
 
 ### 🎯 Goals for 2025:
 - Secure an internship or apprenticeship 🏆
+  
 - Contribute to open-source projects 💻
+  
 - Build and scale innovative applications 🚀
+  
 - Network with industry professionals 🤝
 
 ---
@@ -62,9 +69,12 @@ I'm an aspiring software engineer constantly expanding my knowledge and refining
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tobilobasalawu&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobilobasalawu&layout=compact&theme=radical" width="410" alt="Top Languages"/>
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=tobilobasalawu&theme=radical" />
-
 </p>
 
 ---
