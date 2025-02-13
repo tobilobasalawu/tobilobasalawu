@@ -16,6 +16,9 @@ I'm an aspiring software engineer constantly expanding my knowledge and refining
 - Full-stack development with Next.js & React ⚡
 
 - Software Developme Life Cycle 🔁
+
+- 📫 How to reach me **tobisal.dev@gmail.com**
+
   
 
 ### 🎯 Goals for 2025:
@@ -32,6 +35,7 @@ I'm an aspiring software engineer constantly expanding my knowledge and refining
 ## 🛠 &nbsp; Tech Stack
 
 ### **Languages:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
@@ -43,7 +47,7 @@ I'm an aspiring software engineer constantly expanding my knowledge and refining
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=flat&logo=matplotlib&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### **Development & Deployment Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
