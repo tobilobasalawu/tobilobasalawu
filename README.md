@@ -6,7 +6,7 @@ Aspiring Software Engineer | Passionate Learner | Problem Solver
 
 I'm an aspiring software engineer constantly expanding my knowledge and refining my skills. Follow my journey! 🚀
 
-<!-- TODO: Add latest video link -->
+
 
 ### 🌱 Currently Learning:
 - Advanced Python concepts 🐍
@@ -19,7 +19,7 @@ I'm an aspiring software engineer constantly expanding my knowledge and refining
   
 
 ### 🎯 Goals for 2025:
-- Secure an internship or apprenticeship 🏆
+- Secure an internship 🏆
   
 - Contribute to open-source projects 💻
   
