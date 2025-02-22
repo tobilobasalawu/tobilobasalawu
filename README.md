@@ -71,10 +71,6 @@ I'm an aspiring software engineer constantly expanding my knowledge and refining
 
 ---
 
-## 🚀 Projects
-🔗 Check out my projects here 👉🏾 [Projects](https://github.com/tobilobasalawu/Projects) 👈🏾
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -91,5 +87,5 @@ I'm an aspiring software engineer constantly expanding my knowledge and refining
 
 💡 *"The best way to predict the future is to create it."* – Abraham Lincoln
 
-_Last Updated: 13/02/2025_
+_Last Updated: 22/02/2025_
 
