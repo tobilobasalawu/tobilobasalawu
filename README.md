@@ -1,7 +1,7 @@
 # Hi, I'm Tobi! 👋🏾
 
 
-I'm an aspiring software engineer constantly expanding my knowledge and refining my skills. Follow my journey! 🚀
+I’m an aspiring Software Engineer and Entrepreneur passionate about building innovative solutions and constantly learning. Balancing school and refining my skills.🚀
 
 
 
