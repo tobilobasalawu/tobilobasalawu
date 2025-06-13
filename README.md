@@ -1,6 +1,6 @@
 # Hi, I’m Tobi 👋🏾
 
-I’m an aspiring **Software Engineer**, passionate about building meaningful digital solutions and constantly expanding my technical and leadership skills. I balance my studies with hands-on development, open source contributions, and leading real world projects.
+I’m an aspiring **Software Engineer**, passionate about building meaningful digital solutions and constantly expanding my technical and leadership skills. 
 
 ---
 
@@ -12,10 +12,8 @@ I’m an aspiring **Software Engineer**, passionate about building meaningful di
 
 ---
 
-## 🎯 &nbsp; Goals for 2025
-- Secure a **software engineering internship**.
-- Deliver production-ready applications that solve real problems.
-- Build meaningful industry connections and contribute to impactful work.
+## Portfolio
+**Link** - https://oluwatobisalawu.me
 
 ---
 
