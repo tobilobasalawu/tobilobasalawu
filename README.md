@@ -1,11 +1,11 @@
 # Hi, I’m Tobi 👋🏾
 
-I’m a driven **Software Engineer** and aspiring **Tech Entrepreneur**, passionate about building meaningful digital solutions and constantly expanding my technical and leadership skills. I balance my studies with hands-on development, open-source contributions, and leading real-world projects.
+I’m an aspiring **Software Engineer**, passionate about building meaningful digital solutions and constantly expanding my technical and leadership skills. I balance my studies with hands-on development, open source contributions, and leading real world projects.
 
 ---
 
 ## 🚀 &nbsp; What I’m Working On
-- Building and scaling **LEAF Network**, a student opportunity platform used by 400+ members.
+- Building and scaling **LEAF Network**, a student opportunity platform used by 500+ members.
 - Deepening my knowledge of **Data Structures & Algorithms**.
 - Expanding my full-stack skills with **Next.js**, **React**, and modern cloud tools.
 - Actively contributing to open-source communities and collaborative tech projects.
@@ -15,7 +15,6 @@ I’m a driven **Software Engineer** and aspiring **Tech Entrepreneur**, passion
 ## 🎯 &nbsp; Goals for 2025
 - Secure a **software engineering internship**.
 - Deliver production-ready applications that solve real problems.
-- Grow as a technical leader and mentor.
 - Build meaningful industry connections and contribute to impactful work.
 
 ---
