@@ -13,7 +13,7 @@ I’m an aspiring **Software Engineer**, passionate about building meaningful di
 ---
 
 ## Portfolio
-**Link** - https://oluwatobisalawu.me
+**Link** - https://oluwatobisalawu.tech
 
 ---
 
