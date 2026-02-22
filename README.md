@@ -24,7 +24,7 @@ Currently focused on strengthening data structures, system design fundamentals, 
 
 
 ## Portfolio
-**Link** - https://oluwatobisalawu.tech
+**Link** - https://oluwatobisalawu.com
 
 ---
 
@@ -37,7 +37,7 @@ Currently focused on strengthening data structures, system design fundamentals, 
 
 > _"The best way to predict the future is to create it."_ — Abraham Lincoln
 
-_Last Updated: 19/07/2025_
+_Last Updated: 22/02/2026_
 
 
 
