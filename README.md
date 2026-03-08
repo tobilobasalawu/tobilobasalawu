@@ -6,7 +6,7 @@ Currently focused on strengthening data structures, system design fundamentals, 
 ---
 
 ## 🚀 &nbsp; What I’m Working On
-- Scaling Harbans – student opportunity platform
+- Scaling Harbans – student opportunity platform (https://harbans.app)
   - Built with: Next.js, React, API routes, database integration
   - Focused on performance, UX, and scalable architecture
 - Deepening my knowledge of **Data Structures & Algorithms**.
