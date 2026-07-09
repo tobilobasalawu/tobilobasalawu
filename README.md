@@ -2,8 +2,8 @@
 
 #### A founder & full-stack engineer by day ☼ and an LLM tinkerer by night ☾
 
-Building [TLevelled](https://oluwatobisalawu.com?ref=github) — helping T Level students find the right university;<br>
-Featured in [FE Week](https://feweek.co.uk);<br>
+Building [TLevelled](http://tlevelled.co.uk/) — helping T Level students find the right university;<br>
+Featured in [FE Week](https://feweek.co.uk/gold-standard-t-levels-still-rarely-lead-to-top-universities/#comments-section);<br>
 
 - ⚙️ I use daily: `.ts`, `.tsx`, `next.js`, `react`, `supabase`
 - 🤖 I build with AI: **agents**, **multi-agent workflows**, **Claude Code**
