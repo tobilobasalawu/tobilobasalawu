@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" role="img" aria-label="Tobi Salawu — Full-stack &amp; AI engineer">
+  <style>
+    .serif  { font-family: Georgia, 'Times New Roman', 'Times', serif; }
+    .sans   { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .ink    { fill: #17171A; }
+    .muted  { fill: #6B6B6B; }
+    .accent { fill: #B8901E; }
+    .rule   { stroke: #D8D5CE; }
+  </style>
+
+  <line x1="4" y1="34" x2="896" y2="34" class="rule" stroke-width="1">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0s" fill="freeze"/>
+  </line>
+
+  <text x="4" y="26" class="sans muted" font-size="11" letter-spacing="3" opacity="0">№&#160;01
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze"/></text>
+  <text x="896" y="26" text-anchor="end" class="sans muted" font-size="11" letter-spacing="3" opacity="0">PORTFOLIO
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze"/></text>
+
+  <text x="4" y="72" class="sans muted" font-size="13" letter-spacing="4.5" opacity="0">FULL-STACK&#160;&#160;·&#160;&#160;AI ENGINEERING&#160;&#160;·&#160;&#160;0&#8594;1 PRODUCT
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.35s" fill="freeze"/></text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="1s" begin="0.6s" fill="freeze"/>
+    <text x="2" y="152" class="serif ink" font-size="70" letter-spacing="1">Tobi Salawu</text>
+  </g>
+
+  <rect x="4" y="176" height="2.5" width="0" class="accent">
+    <animate attributeName="width" from="0" to="560" dur="1.1s" begin="1.15s" fill="freeze"
+             calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+  </rect>
+
+  <text x="4" y="206" class="sans muted" font-size="15" letter-spacing="2" opacity="0">Founder, TLevelled&#160;&#160;·&#160;&#160;19&#160;·&#160;&#160;shipping products that compound
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="1.5s" fill="freeze"/></text>
+</svg>
